@@ -3,6 +3,6 @@ solving inverse problem in holography
 
 The source code of the papers "Physics-based Holo-Net for three-dimensional imaging" and "Holographic 3D particle imaging with model-based deep network".
 
-`It would be unusual for a researcher in optical holography to be unfamiliar with linear convolution, as it is a fundamental concept in signal processing and image reconstruction, which are integral to the field of holography. A solid understanding of linear convolution is generally expected from researchers in optical holography due to its significance in the field.`
+`Based on the importance of linear convolution in the field of holography, it is widely expected that optical holography researchers possess a solid understanding of this fundamental concept. Conversely, if an individual lacks a solid understanding of linear convolution, they are not typically expected to be optical holography researchers.`
 
 
